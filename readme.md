@@ -10,11 +10,6 @@
 # About
 A curated list of awesome Android [libraries](#libraries) and [resources](#resources). For general Java libraries have a look at [awesome-java](https://github.com/akullpp/awesome-java).
 
-# Supported with ❤️ by [Instabug](https://goo.gl/ykpN6D)
-[![android](https://user-images.githubusercontent.com/9888943/35685005-23aa115a-0771-11e8-9ca7-82f41daeeafd.gif)](https://goo.gl/9UVi6P)
-> Instabug SDK allows Android developers to receive detailed bug reports from users and testers directly from inside the app. It attaches screenshots, screen recordings, network requests, and reproduce steps with each bug report. This  minimizes debugging time and helps developers in tracing weird bugs. [Learn more.](https://goo.gl/wGJngN)🚀
- [![](https://instabug-ga.appspot.com/UA-41982088-6/github/awesomeandroid?pixel)](https://instabug.com)
-
 # How to Use
 Awesome-Android is an amazing list for people who need a certain feature on their app, so the best ways to use are:
  - Simply press command + F to search for a keyword
